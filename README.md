@@ -3,7 +3,7 @@
 The repository implements the Capsule Network for text classification. Note that it's just prototypes for experimental purposes only
 
 - Word or char level representation:  word2vec, glove, fasttext
-- Model: CNN, BiLSTM, RCNN, Capsule
+- Model: CNN, BiLSTM, RCNN, Capsule , gru
 
 - 
 ## Authors
